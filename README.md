@@ -1,5 +1,5 @@
 # Capstone3_Telco_Customer_Churn
-Tulisan ini berisi tentang dataset Telco Customer Churn dengan jumlah 4930 baris dan 11 kolom. Pemodelan ini bertujuan untuk membuat model machine learning untuk memprediksi apakah suatu pelanggan akan berhenti berlangganan (churn) atau tidak. Pada tulisan pemodelan ini tahapan-tahapan yang dilakukan adalah **_Business Understanding_**, _**Data Understanding**_, _**EDA**_, _**Data Preprocessing**_, _**Modeling**_, _**Model Properties**_ dan _**Conclusion & Recommendation**_.
+File pemodelan ini berisi tentang dataset Telco Customer Churn dengan jumlah 4930 baris dan 11 kolom. Pemodelan ini bertujuan untuk membuat model machine learning untuk memprediksi apakah suatu pelanggan akan berhenti berlangganan (churn) atau tidak. Pada file pemodelan ini tahapan-tahapan yang dilakukan adalah **_Business Understanding_**, _**Data Understanding**_, _**EDA**_, _**Data Preprocessing**_, _**Modeling**_, _**Model Properties**_ dan _**Conclusion & Recommendation**_.
 
 # Business Understanding
 ***Context :***
