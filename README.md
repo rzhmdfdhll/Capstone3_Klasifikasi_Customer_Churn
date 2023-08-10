@@ -21,15 +21,15 @@ Pada suatu perusahaan telekomunikasi, tingginya persentase pelanggan yang melaku
 Salah satu cara perusahaan telekomunikasi mempertahankan pelanggannya agar tidak *churn*, yaitu dengan memberikan insentif retensi terhadap pelanggan. Insentif retensi yang dimaksud adalah dengan memberikan suku bunga yang menarik, memberikan paket layanan yang menarik, memberikan prioritas pelayanan dan lain-lain dalam upaya untuk mempertahankan pelanggan. Namun, kebijakan pemberian insentif retensi belum sepenuhnya dilakukan secara efektif. Karena jika insentif retensi tersebut diberikan secara merata kepada seluruh pelanggan, maka pengeluaran biaya tersebut menjadi tidak efektif dan mengurangi potensi keuntungan apabila pelanggan tersebut memang loyal dan tidak ingin berhenti menggunakan layanan.
 
 ***Goals :***
-
+F
 Berdasarkan permasalahan di atas, perusahaan ingin memiliki kemampuan untuk memprediksi kemungkinan seorang pelanggan akan berhenti menggunakan layanan (*churn*) atau tidak, sehingga perusahaan dapat memfokuskan upaya retensi(mempertahankan pelanggan) pada pelanggan yang terindikasi untuk *churn*.
-Selain itu, perusahaan ingin mengetahui faktor yang cenderung memperngaruhi pelanggan bertahan, sehingga mereka dapat membuat program bisnis yang tepat sasaran untuk mengurangi jumlah nasabah yang berhenti berlangganan (*churn*).
+Selain itu, perusahaan ingin mengetahui faktor yang cenderung memperngaruhi pelanggan bertahan, sehingga mereka dapat membuat program bisnis yang tepat sasaran untuk mengurangi jumlah pelanggan yang berhenti berlangganan (*churn*).
 
 ***Analytic Approach :***
 
 Jadi yang akan dilakukan adalah menganalisis data untuk menemukan pola yang membedakan pelanggan yang akan berhenti menggunakan layanan (*churn*) atau tidak.
 
-Kemudian akan membangun model klasifikasi yang akan membantu perusahaan untuk dapat memprediksi probabilitas seorang nasabah akan berhenti menggunakan layanan (*churn*) atau tidak.
+Kemudian akan membangun model klasifikasi yang akan membantu perusahaan untuk dapat memprediksi probabilitas seorang pelanggan akan berhenti menggunakan layanan (*churn*) atau tidak.
 
 ***Metric Evaluation :***
 
